@@ -71,17 +71,25 @@ The notebook contains the full training process, model configurations, evaluatio
 
 The confusion matrix shows how the model's predictions compare with the actual classes in the test dataset.
 
+![Confusion Matrix](images/confusion_matrix.png)
+
 ### Example Predictions
 
-Example predictions are included to demonstrate how the trained model classifies individual Fashion MNIST images.
+Example predictions demonstrate how the trained model classifies individual Fashion MNIST images.
+
+![Example Predictions](images/example_prediction.png)
 
 ### Configuration Comparison
 
 Different neural network configurations were compared to examine their effect on model performance.
 
+![Configuration Comparison](images/configuration_comparison.png)
+
 ### Final Training Results
 
 Training and validation accuracy and loss are visualised to show how the final model performed during training.
+
+![Final Training Results](images/final_training.png)
 
 ## Project Structure
 
